@@ -2,6 +2,8 @@
 
 Source code for EMNLP2022 long paper: Parameter-Efficient Tuning Makes a Good Classification Head
 
+[arxiv](https://arxiv.org/abs/2210.16771)
+
 We found that 
 > 1. Finetune the pretrained LM with a parameter-efficient algorithm.
 > 2. Finetune the pretrained LM with initializing the classification head as the weight from 1.
